@@ -1,0 +1,6 @@
+import io.netty.handler.codec.ReplayingDecoder;
+public class FunctionUse6715 {
+public void funcUse() {
+ReplayingDecoder replayingdecoder = new ReplayingDecoder();
+}
+}
